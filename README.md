@@ -1,3 +1,3 @@
 # Pollux Poster & Slideshow
 
-Poster and markdown slideshow for Dr. Quam's Physics of the Universe class.
+Poster and markdown (Obsidian) slideshow for Dr. Quam's Physics of the Universe class.
